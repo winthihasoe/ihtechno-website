@@ -1,2 +1,3 @@
 # ihtechno-website
-for host the app-ads.txt
+Welcome to IHTechno. The website is under developing. 
+Sorry for any inconvenience. 
